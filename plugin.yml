@@ -1,0 +1,7 @@
+name: TNTRestore
+main: com.dewookie.tntRestore.TNT_Restore
+author: [Wookie]
+website: http://www.bukkit.org/
+description: Restores the blocks destoryed by TNT after they explode
+version: 1.0.0
+api-version: 1.13
